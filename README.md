@@ -40,9 +40,8 @@
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/2" alt="Recent Article 2"> 
 
+---
 <br />
-
- ---
 
 <!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=namratadutt&show_icons=true&hide_border=true" />
  -->
