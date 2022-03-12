@@ -28,6 +28,22 @@
 
 ---
 
+#### Check out my latest blogs on medium :
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/0" alt="Recent Article 0"> 
+<br />
+
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/2" alt="Recent Article 2"> 
+
+<br />
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@namratadutt2/2" alt="Recent Article 2"> 
+
+<br />
+
+ ---
+
 <!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=namratadutt&show_icons=true&hide_border=true" />
  -->
 
