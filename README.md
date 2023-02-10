@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Namrata <sup>(She/Her)</sup> <img align="center" alt="codeSTACKr.com" width="5%" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
 
-#### I'm a Computer Science Masters Student at University of Florida.
+#### I'm a Ph.D. Student at University of Florida.
 
 #### Connect with me:
 
